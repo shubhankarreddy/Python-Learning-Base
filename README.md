@@ -137,6 +137,48 @@ Planned extensions:
 
 ---
 
+## VS Code Extensions (Data Science Essentials)
+
+Install from **VS Code → Extensions** (`Ctrl + Shift + X`) or click the links below.
+
+### Core (Recommended)
+- **Python** — Run Python, manage environments, debugging.  
+  [ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- **Jupyter** — Notebook support inside VS Code (`.ipynb`).  
+  [ms-toolsai.jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+- **Pylance** — Fast IntelliSense, type hints, better autocomplete.  
+  [ms-python.vscode-pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
+
+### Data Exploration / Files
+- **Data Wrangler** — GUI-based data cleaning + auto-generates pandas code.  
+  [ms-toolsai.datawrangler](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.datawrangler)
+- **Rainbow CSV** — Colorize CSV columns, align, query/filter CSV easily.  
+  [mechatroner.rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- **Excel Viewer** — Preview Excel/CSV files inside VS Code.  
+  [GrapeCity.gc-excelviewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
+
+### Code Quality (Strongly Recommended)
+- **Ruff** — Extremely fast Python linter (and formatter support).  
+  [charliermarsh.ruff](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff)
+- **Black Formatter** — Automatic, consistent Python formatting.  
+  [ms-python.black-formatter](https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter)
+
+### Productivity (Nice to Have)
+- **Error Lens** — Shows errors/warnings inline (hard to miss).  
+  [usernamehw.errorlens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- **GitLens** — Better Git history, blame, diffs, file insights.  
+  [eamodio.gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- **Markdown All in One** — Markdown shortcuts + TOC + better writing workflow.  
+  [yzhang.markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+
+### Databases (Optional but Useful)
+- **SQLTools** — Run SQL queries inside VS Code with DB connections.  
+  [mtxr.sqltools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)
+- **vscode-sqlite** — Explore and query SQLite databases.  
+  [alexcvzz.vscode-sqlite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)
+
+---
+
 ## License
 
 MIT (or update `LICENSE` as needed)
