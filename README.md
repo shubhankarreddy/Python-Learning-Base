@@ -20,7 +20,7 @@ Each module builds on the previous one.
 
 ## Curriculum Roadmap
 <p align="center">
-  <img src="assets/roadmap.png" width="600">
+  <img src="assets/roadmap.png" alt="Curriculum Roadmap">
 </p>
 ---
 
