@@ -140,9 +140,14 @@ Best for: quick practice, low-end laptops, zero setup.
 
 Planned extensions:
 
-- 07 Machine Learning
-- 08 Model Evaluation
-- 09 Projects & Case Studies
+### 07 — Machine Learning
+Supervised learning fundamentals, regression, classification.
+
+### 08 — Model Evaluation
+Metrics, cross-validation, bias–variance, performance analysis.
+
+### 09 — Projects & Case Studies
+End-to-end applied data science workflows.
 
 ---
 
