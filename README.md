@@ -1,42 +1,50 @@
 # From Python to Machine Learning
 
-A structured journey from syntax to intelligent systems.
+A structured progression from Python fundamentals to applied Machine Learning.
 
 ---
 
-## The Transformation
+## Overview
+
+This repository is designed as a deliberate transformation path.
+
+It moves step by step from basic programming constructs to data analysis and statistical reasoning, culminating in Machine Learning.
+
+The goal is structured growth — not scattered exploration.
+
+---
+
+## The Progression
 
 ```
 Variables
-  ↓
+   ↓
 Control Flow
-  ↓
+   ↓
 Data Structures
-  ↓
+   ↓
 Functions
-  ↓
-NumPy
-  ↓
-Pandas
-  ↓
-Data Analysis
-  ↓
-Statistics
-  ↓
+   ↓
+Numerical Computing (NumPy)
+   ↓
+Data Manipulation (Pandas)
+   ↓
+Exploratory Data Analysis
+   ↓
+Statistical Thinking
+   ↓
 Machine Learning
 ```
 
-This repository is designed to move you step by step across this progression.
+Each layer depends on the previous one.
 
-No random jumps.  
-No scattered notebooks.  
-Every layer builds on the previous one.
+There are no forward references and no mixed abstraction levels.
 
-## Learning Path Overview
+---
 
-```
-Foundations → Data Structures → Computation → Data Handling → Analysis → Statistics → Machine Learning
-```
+## Learning Architecture
+
+The repository follows a strict sequence:
 
 ```
 01  Core Python Foundations
@@ -48,81 +56,64 @@ Foundations → Data Structures → Computation → Data Handling → Analysis �
 07  Machine Learning (in progress)
 ```
 
-This repository is meant to be followed in order.
+Every folder contains numbered notebooks to preserve conceptual order.
 
-Each section builds directly on the previous one.
-
----
-
-## What You Will Gain
-
-By completing this path, you will develop:
-
-- Strong control over Python fundamentals  
-- Deep understanding of data structures  
-- Practical experience with NumPy and Pandas  
-- Structured data analysis skills  
-- Statistical reasoning foundations  
-- Preparation for Machine Learning workflows  
+This path is intended to be followed sequentially.
 
 ---
 
-## Skill Progression Map
+## What You Will Build
 
-```
-Variables
-  ↓
-Data Types
-  ↓
-Control Flow
-  ↓
-Functions
-  ↓
-NumPy Arrays
-  ↓
-Pandas DataFrames
-  ↓
-Data Cleaning
-  ↓
-Visualization
-  ↓
-Statistical Thinking
-  ↓
-Machine Learning
-```
+By completing this progression, you will develop:
 
-The complexity increases gradually and intentionally.
+- Strong command of Python fundamentals  
+- Clear understanding of data structures  
+- Practical fluency with NumPy and Pandas  
+- Structured data analysis capability  
+- Foundational statistical reasoning  
+- Readiness for Machine Learning workflows  
 
-No random jumps. No mixed abstraction levels.
+This is a systems-based learning path, not isolated examples.
 
 ---
 
 ## Repository Structure
 
 ```
-Python-Learning-Base/
+From-Python-to-ML/
 │
-├── 01.Core Python Foundations/
-├── 02.Working with Files/
-├── 03.NumPy/
-├── 04.Pandas/
-├── 05.EDA and Visualization/
-├── 06.Statistics/
-└── 07.Machine Learning (planned)
+├── notebooks/
+│   ├── 01.Core Python Foundations/
+│   ├── 02.Working with Files/
+│   ├── 03.NumPy/
+│   ├── 04.Pandas/
+│   ├── 05.EDA and Visualization/
+│   ├── 06.Statistics/
+│   └── 07.Machine Learning/
+│
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
-Each folder contains numbered notebooks to preserve conceptual order.
+Numbering is intentional and should not be altered.
 
 ---
 
-## How to Use
+## Running the Notebooks
 
 ### Option 1 — Google Colab
 
-Open any notebook in Colab:
+Open any notebook directly in Colab:
 
 ```
-https://colab.research.google.com/github/<your-username>/Python-Learning-Base/blob/main/<path-to-notebook>
+https://colab.research.google.com/github/shubhankarreddy/From-Python-to-ML/blob/main/<path-to-notebook>
+```
+
+Example:
+
+```
+https://colab.research.google.com/github/shubhankarreddy/From-Python-to-ML/blob/main/notebooks/01.Core%20Python%20Foundations/01.Variables%20and%20Data%20Types.ipynb
 ```
 
 ---
@@ -132,40 +123,44 @@ https://colab.research.google.com/github/<your-username>/Python-Learning-Base/bl
 Clone the repository:
 
 ```
-git clone https://github.com/<your-username>/Python-Learning-Base.git
+git clone https://github.com/shubhankarreddy/From-Python-to-ML.git
 ```
 
-Open with Jupyter or VS Code.
+Open using:
+
+- Jupyter Notebook
+- JupyterLab
+- VS Code
 
 ---
 
-## Design Philosophy
+## Design Principles
 
 This repository enforces:
 
-- Logical topic sequencing  
-- Gradual abstraction  
+- Logical sequencing  
+- Layered abstraction  
+- Concept before optimization  
 - Minimal cognitive overload  
-- Concept before implementation  
 - Structured reinforcement  
 
-It is designed to be worked through sequentially.
+The objective is long-term depth, not short-term speed.
 
 ---
 
-## Who This Is For
+## Intended For
 
-- Beginners serious about learning Python  
-- Developers transitioning to Data Science  
-- Self-learners who prefer structured progression  
+- Learners starting Python seriously  
+- Developers transitioning into Data Science  
+- Individuals building structured ML foundations  
 
 ---
 
 ## Roadmap
 
-- Add structured Machine Learning modules  
-- Add applied mini-project layer  
-- Add revision notebooks  
+- Complete Machine Learning module  
+- Add integrated mini-projects  
+- Add applied end-to-end workflow notebooks  
 
 ---
 
