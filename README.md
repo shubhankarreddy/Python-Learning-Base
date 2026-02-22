@@ -1,133 +1,146 @@
 # Python Learning Base
 
-A beginner-to-advanced Python learning curriculum focused on Data Science.
+A structured progression from Python fundamentals to applied Data Science.
 
-This repository is designed for absolute beginners who have never coded before.  
-It follows a clear, structured path from basic Python to Data Science concepts.
+---
+
+## Learning Path Overview
+
+```
+Foundations → Data Structures → Computation → Data Handling → Analysis → Statistics → Machine Learning
+```
+
+```
+01  Core Python Foundations
+02  Working with Files
+03  NumPy
+04  Pandas
+05  EDA and Visualization
+06  Statistics
+07  Machine Learning (in progress)
+```
+
+This repository is meant to be followed in order.
+
+Each section builds directly on the previous one.
+
+---
+
+## What You Will Gain
+
+By completing this path, you will develop:
+
+- Strong control over Python fundamentals  
+- Deep understanding of data structures  
+- Practical experience with NumPy and Pandas  
+- Structured data analysis skills  
+- Statistical reasoning foundations  
+- Preparation for Machine Learning workflows  
+
+---
+
+## Skill Progression Map
+
+```
+Variables
+  ↓
+Data Types
+  ↓
+Control Flow
+  ↓
+Functions
+  ↓
+NumPy Arrays
+  ↓
+Pandas DataFrames
+  ↓
+Data Cleaning
+  ↓
+Visualization
+  ↓
+Statistical Thinking
+  ↓
+Machine Learning
+```
+
+The complexity increases gradually and intentionally.
+
+No random jumps. No mixed abstraction levels.
+
+---
+
+## Repository Structure
+
+```
+Python-Learning-Base/
+│
+├── 01.Core Python Foundations/
+├── 02.Working with Files/
+├── 03.NumPy/
+├── 04.Pandas/
+├── 05.EDA and Visualization/
+├── 06.Statistics/
+└── 07.Machine Learning (planned)
+```
+
+Each folder contains numbered notebooks to preserve conceptual order.
+
+---
+
+## How to Use
+
+### Option 1 — Google Colab
+
+Open any notebook in Colab:
+
+```
+https://colab.research.google.com/github/<your-username>/Python-Learning-Base/blob/main/<path-to-notebook>
+```
+
+---
+
+### Option 2 — Local Setup
+
+Clone the repository:
+
+```
+git clone https://github.com/<your-username>/Python-Learning-Base.git
+```
+
+Open with Jupyter or VS Code.
+
+---
+
+## Design Philosophy
+
+This repository enforces:
+
+- Logical topic sequencing  
+- Gradual abstraction  
+- Minimal cognitive overload  
+- Concept before implementation  
+- Structured reinforcement  
+
+It is designed to be worked through sequentially.
 
 ---
 
 ## Who This Is For
 
-- Absolute beginners with zero coding experience  
-- Learners preparing for Data Science or Analytics roles  
-- Instructors who want a structured teaching-ready curriculum  
-- Anyone who wants a clean Python learning path  
+- Beginners serious about learning Python  
+- Developers transitioning to Data Science  
+- Self-learners who prefer structured progression  
 
 ---
 
-## How To Use This Repository
+## Roadmap
 
-1. Go to the `notebooks` folder.
-2. Start from `01.Core Python Foundations`.
-3. Follow the notebooks in numeric order.
-4. Complete the practice questions and homework in each notebook.
-5. Move to the next folder only after you are comfortable with the current one.
-
-Do not skip topics. The order is intentional.
+- Add structured Machine Learning modules  
+- Add applied mini-project layer  
+- Add revision notebooks  
 
 ---
 
-## Curriculum Structure
+## License
 
-### 01. Core Python Foundations
-- Variables and Data Types  
-- Strings  
-- Lists  
-- Tuples and Sets  
-- Dictionaries  
-- Operators  
-- Conditional Statements  
-- Loops  
-- Functions  
-
-### 02. Working with Files
-- Reading and Writing Files  
-- Working with CSV Files  
-- Introduction to Modules  
-- Datetime Basics  
-
-### 03. NumPy
-- Introduction to Arrays  
-- Indexing and Slicing  
-- Vectorized Operations  
-- Aggregation and Statistics  
-- Random Module and Reproducibility  
-
-### 04. Pandas
-- Introduction to Pandas  
-- Selecting and Filtering Data  
-- Handling Missing Values  
-- Sorting and Creating Columns  
-- GroupBy  
-- Merge and Join  
-- Working with Dates  
-- String Operations  
-
-### 05. EDA and Visualization
-- What is EDA  
-- Matplotlib Basics  
-- Histograms and Distribution  
-- Scatter and Correlation  
-- Writing Insights  
-
-### 06. Statistics
-- Probability Basics  
-- Random Variables  
-- Sampling and Central Limit Theorem  
-- Hypothesis Testing  
-- Overfitting vs Underfitting  
-
----
-
-## How To Run The Notebooks
-
-You have three options.
-
----
-
-### Option 1: Using Anaconda (Recommended for Beginners)
-
-Step 1: Download Anaconda  
-https://www.anaconda.com/products/distribution  
-
-Step 2: Install it  
-Step 3: Open Anaconda Navigator  
-Step 4: Launch Jupyter Notebook or JupyterLab  
-Step 5: Navigate to the `notebooks` folder  
-Step 6: Open any notebook and run cells from top to bottom  
-
----
-
-### Option 2: Using VS Code
-
-Step 1: Download VS Code  
-https://code.visualstudio.com/  
-
-Step 2: Install Python Extension  
-Step 3: Install Jupyter Extension  
-Step 4: Open this project folder  
-Step 5: Open any `.ipynb` file  
-Step 6: Select Python kernel and run cells  
-
----
-
-### Option 3: Using Google Colab (No Installation Required)
-
-Google Colab runs in your browser.
-
-Step 1: Open  
-https://colab.research.google.com/  
-
-Step 2: Click on the **GitHub** tab  
-
-Step 3: Paste this repository link  
-
-Step 4: Select the notebook you want to open  
-
-You can run notebooks directly in the browser without installing anything.
-
-If required, install libraries inside Colab using:
-
-```python
-!pip install numpy pandas matplotlib seaborn scikit-learn
+MIT License
