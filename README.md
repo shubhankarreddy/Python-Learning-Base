@@ -1,8 +1,36 @@
-# Python Learning Base
+# From Python to Machine Learning
 
-A structured progression from Python fundamentals to applied Data Science.
+A structured journey from syntax to intelligent systems.
 
 ---
+
+## The Transformation
+
+```
+Variables
+  ↓
+Control Flow
+  ↓
+Data Structures
+  ↓
+Functions
+  ↓
+NumPy
+  ↓
+Pandas
+  ↓
+Data Analysis
+  ↓
+Statistics
+  ↓
+Machine Learning
+```
+
+This repository is designed to move you step by step across this progression.
+
+No random jumps.  
+No scattered notebooks.  
+Every layer builds on the previous one.
 
 ## Learning Path Overview
 
