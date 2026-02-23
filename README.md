@@ -28,38 +28,38 @@ Each module builds on the previous one.
 
 ### 01 — Core Python
 Programming fundamentals: variables, control flow, data structures, functions.  
-→ Open: `notebooks/01_core-python/`
+→ Open: `01_core-python/`
 
 ---
 
 ### 02 — Working with Files
 File I/O, CSV handling, modules, datetime essentials.  
-→ Open: `notebooks/02_working-with-files/`
+→ Open: `02_working-with-files/`
 
 ---
 
 ### 03 — NumPy
 Arrays, indexing, vectorization, aggregations, randomness & reproducibility.  
-→ Open: `notebooks/03_numpy/`
+→ Open: `03_numpy/`
 
 ---
 
 ### 04 — Pandas
 DataFrames, cleaning, transformation, groupby, merges/joins.  
-→ Open: `notebooks/04_pandas/`
+→ Open: `04_pandas/`
 
 ---
 
 ### 05 — Data Analysis
 EDA workflow, missing values, outliers, feature engineering, visualization.  
-→ Open: `notebooks/05_data-analysis/`
+→ Open: `05_data-analysis/`
 🚧 Visual demonstrations will be added as the module progresses.
 
 ---
 
 ### 06 — Statistics
 Descriptive statistics, probability basics, distributions, hypothesis testing.  
-→ Open: `notebooks/06_statistics/`
+→ Open: `06_statistics/`
 🚧 Statistical visualizations and applied examples coming soon.
 
 ---
