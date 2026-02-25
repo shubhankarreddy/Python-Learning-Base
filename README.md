@@ -69,7 +69,7 @@ Descriptive statistics, probability basics, distributions, hypothesis testing.
   <img src="assets/repo-structure.png" width="700">
 </p>
 
-1. Start at **Module 01** and move in order.
+1. Start at **Module 01** and move in order.``
 2. Inside each module, run notebooks sequentially.
 3. Avoid skipping modules — later topics assume earlier foundations.
 4. If a notebook breaks, restart the kernel and run from the top.
